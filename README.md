@@ -15,13 +15,4 @@ This package contains 2 files:
 See each file for further documentation.
 
 # License and Referencing
-his code package is licenced under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original articles listed above. The Bibtex citation is:
-
-@misc{balti2021adaptive,
-      title={Adaptive Self-Interference Cancellation for Full-Duplex Wireless Communication Systems}, 
-      author={Elyes Balti and Brian L. Evans},
-      year={2021},
-      eprint={2104.01504},
-      archivePrefix={arXiv},
-      primaryClass={cs.IT}
-}
+his code package is licenced under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original articles listed above. 
