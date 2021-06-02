@@ -7,6 +7,7 @@ The package contains a simulation environment, based on Matlab, that reproduces 
 
 # Content of Code Package
 This package contains 2 files:
+
 1- "SteepestDescent.m" returns the estimated self-interference channel.
 
 2- "main.m" produces the results of the BER and the spectral efficiency.
