@@ -1,7 +1,7 @@
 # Full-Duplex Steepest Descent
 This is a code package related to the follow scientific articles:
 
-Elyes Balti and Brian L. Evans, "[Adaptive Self-Interference Cancellation for Full-Duplex Wireless Communication Systems] (https://arxiv.org/abs/2104.01504)," 2021.
+Elyes Balti and Brian L. Evans, "[Adaptive Self-Interference Cancellation for Full-Duplex Wireless Communication Systems](https://arxiv.org/abs/2104.01504)," 2021.
 
 The package contains a simulation environment, based on Matlab, that reproduces the performance results of the bit error rate (BER) and the spectral efficiency presented in the paper listed above.
 
