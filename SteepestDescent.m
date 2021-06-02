@@ -42,7 +42,7 @@ function output = SteepestDescent(PILOT,hs,Iterations,alpha,NOISE_VAR_1D)
     noise = randn(FFT_LEN + CP_LEN+CHAN_LEN-1,1) + 1i*randn(FFT_LEN + CP_LEN+CHAN_LEN-1,1);
     Xsi = conv(hs,PILOT) + sqrt(NOISE_VAR_1D) *noise;
     
-    %% Construct the cross-correlation matrix between the pilots and the noisy SI signal
+    %% Construct the cross-correlation vector between the pilots and the noisy SI signal
     CROSS_CORR_VEC = xcorr(Xsi(1:length(PILOT)),PILOT,'unbiased');
     MID_POINT = (length(CROSS_CORR_VEC)+1)/2;
     IP_CROSS_CORR_VEC = CROSS_CORR_VEC(MID_POINT:MID_POINT+CHAN_LEN-1);
