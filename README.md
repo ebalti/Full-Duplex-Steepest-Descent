@@ -15,4 +15,4 @@ This package contains 2 files:
 See each file for further documentation.
 
 # License and Referencing
-his code package is licenced under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original articles listed above. 
+This code package is licenced under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original articles listed above. 
