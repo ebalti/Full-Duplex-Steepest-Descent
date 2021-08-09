@@ -1,5 +1,5 @@
 # Full-Duplex Steepest Descent
-This is a code package related to the follow scientific articles:
+This is a code package related to the follow scientific article:
 
 Elyes Balti and Brian L. Evans, "[Adaptive Self-Interference Cancellation for Full-Duplex Wireless Communication Systems](https://arxiv.org/abs/2104.01504)," 2021.
 
